@@ -1,0 +1,4 @@
+--extra-index-url https://pkgs.dev.azure.com/angierWS/NativeAZDO/_packaging/mzae/pypi/simple/
+mzae==1.0.0
+pytest
+
